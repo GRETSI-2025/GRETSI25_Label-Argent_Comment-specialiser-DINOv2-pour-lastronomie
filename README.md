@@ -1,5 +1,15 @@
 # Comment spécialiser DINOv2 pour l'astronomie ?
 
+<hr>
+
+**_Dépôt labelisé dans le cadre du [Label Reproductible du GRESTI'25](https://gretsi.fr/colloque2025/recherche-reproductible/)_**
+
+| Label décerné | Auteur | Rapporteur | Éléments reproduits | Liens |
+|:-------------:|:------:|:----------:|:-------------------:|:------|
+| ![](label_argent.png) | Matthieu LE LAIN<br>[@matthieulel](https://github.com/matthieulel) | Quentin SAINT-CHRISTOPHE<br>Guillaume BECQ<br>[@gjpcbecq](https://github.com/gjpcbecq) |  Figures 3, 4, 5 et 6<br>Table 2, colonne DINOv2 | 📌&nbsp;[Dépôt&nbsp;original](https://github.com/matthieulel/finetune_dinov2_astronomy)<br>⚙️&nbsp;[Issue](https://github.com/GRETSI-2025/Label-Reproductible/issues/28)<br>📝&nbsp;[Rapport](https://github.com/akrah/test/tree/main/rapports/Rapport_issue_28) |
+
+<hr>
+
 Ce projet contient le code Python de reproduction des figures associé à l'article :
 
 > Le Lain, M., Lefèvre, S. (2025). "*Comment spécialiser DINOv2 pour l'astronomie ?*". Soumis au colloque [GRETSI 2025](https://gretsi.fr/colloque2025/) (En revision).
